@@ -14,4 +14,4 @@ I'm not gonna put dimensions and other information that's easily available other
 
 | Mouse | Switches | Scroll | Rating | 
 | --- | --- | --- | --- | 
-| [Razer Viper ](razer/viper.md)| 5 | 8 | 8 |  
+| [Razer Viper ](Razer/viper.md)| 5 | 8 | 8 |  
